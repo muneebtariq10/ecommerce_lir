@@ -1,0 +1,1 @@
+This is Ecommerce Project using Laravel | React | Inertia.
